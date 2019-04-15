@@ -12,9 +12,10 @@
 Processing is a programming environment and a graphics library that makes it easy to visualize your code.
 
 Each Processing program you create is called a sketch.
-Each sketch will contain two of Processing’s built­in functions: setup()and draw().
-The code we put in the setup()function will be run once, when you click the play button. Whatever we put in draw()will be repeated as an infinite loop until you click the stop button.
+Each sketch will contain two of Processing’s built­in functions: **setup()** and **draw()**.
+The code we put in the **setup()** function will be run once, when you click the play button. 
+Whatever we put in **draw()** will be repeated as an infinite loop until you click the stop button.
 
 https://processing.org/reference/
 
-file extension: *.pyde
+File extension: *.pyde
